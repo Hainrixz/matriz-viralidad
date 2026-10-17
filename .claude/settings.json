@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "agent": "matriz-viralidad",
+  "env": {
+    "MAX_MCP_OUTPUT_TOKENS": "50000"
+  },
+  "permissions": {
+    "allow": [
+      "Bash(node --version)",
+      "Bash(ffmpeg -version)",
+      "Bash(ffprobe -version)",
+      "Bash(yt-dlp --version)",
+      "Bash(date *)",
+      "Bash(ls *)",
+      "Bash(mkdir -p *)",
+      "Bash(node scripts/revisar.mjs *)",
+      "Bash(node scripts/mediana.mjs *)",
+      "Bash(node scripts/fotogramas.mjs *)",
+      "Bash(node scripts/descargar.mjs *)",
+      "Bash(node scripts/similitud.mjs *)",
+      "Bash(node scripts/validar-repo.mjs)",
+      "Bash(node --test tests/*)"
+    ],
+    "ask": [
+      "Bash(node scripts/apify.mjs *)",
+      "Bash(node scripts/gemini.mjs *)",
+      "Bash(brew install *)",
+      "Bash(cp .env.example .env)",
+      "Bash(open -e .env)"
+    ],
+    "deny": [
+      "Bash(sudo *)",
+      "Bash(curl * | bash*)",
+      "Bash(curl * | sh*)",
+      "Bash(wget * | sh*)",
+      "Bash(wget * | bash*)",
+      "Read(./.env)",
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Edit(fuentes/**)"
+    ]
+  },
+  "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash|Read|Grep|Glob",
+        "hooks": [
+          { "type": "command", "command": "node \"$CLAUDE_PROJECT_DIR/scripts/guardia.mjs\"" }
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+name: Precio o actor de Apify desactualizado
+description: Un actor cambió de nombre, de input o de precio
+labels: [apify]
+body:
+  - type: input
+    id: actor
+    attributes:
+      label: Actor (ej. apify/instagram-reel-scraper)
+    validations: { required: true }
+  - type: textarea
+    id: que
+    attributes:
+      label: Qué cambió y de dónde lo sacas
+      description: Enlace a la ficha del actor o salida de https://api.apify.com/v2/acts/<usuario>~<actor>
+    validations: { required: true }

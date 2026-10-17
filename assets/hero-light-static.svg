@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 400" width="1280" height="400" role="img" aria-labelledby="t d">
+<title id="t">Matriz Viralidad</title>
+<desc id="d">Tabla de 10 columnas con las filas más virales iluminadas, junto al título MATRIZ DE VIRALIDAD, el lema "Descubre qué hace que un video rompa su mediana" y chips de Instagram, TikTok, YouTube, X, Apify y Watch.</desc>
+<defs>
+<pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#0A88A8" fill-opacity=".10"/></pattern>
+<linearGradient id="beam"><stop offset="0" stop-color="#0A88A8" stop-opacity="0"/><stop offset=".5" stop-color="#0A88A8" stop-opacity=".35"/><stop offset="1" stop-color="#0A88A8" stop-opacity="0"/></linearGradient>
+<radialGradient id="hotglow"><stop offset="0" stop-color="#E8502F" stop-opacity=".16"/><stop offset="1" stop-color="#E8502F" stop-opacity="0"/></radialGradient>
+<clipPath id="cardclip"><rect x="56" y="64" width="536" height="272" rx="16"/></clipPath>
+</defs>
+<rect width="1280" height="400" fill="#F6F8FA"/>
+<rect width="1280" height="400" fill="url(#dots)"/>
+<rect x="56" y="64" width="536" height="272" rx="16" fill="#FFFFFF" stroke="#0B0F14" stroke-opacity=".10"/>
+<g clip-path="url(#cardclip)"><rect class="glow" x="56" y="120" width="536" height="60" fill="url(#hotglow)"/></g>
+<rect x="88" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="131" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="174" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="217" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="260" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="303" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="346" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="389" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<rect x="432" y="94" width="38" height="5" rx="2.5" fill="#0A88A8" fill-opacity="0.9"/>
+<rect x="475" y="94" width="38" height="5" rx="2.5" fill="#4B5968" fill-opacity="0.5"/>
+<text x="451.0" y="84" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="8.5" letter-spacing="1" fill="#0A88A8">RENDIM.</text>
+<g class="c"><rect x="88" y="135.0" width="22" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="131" y="135.0" width="19" height="6" rx="3" fill="#E8502F" fill-opacity="0.85"/></g>
+<g class="c"><rect x="174" y="135.0" width="28" height="6" rx="3" fill="#E8502F" fill-opacity="0.85"/></g>
+<g class="c"><rect x="217" y="135.0" width="18" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="260" y="135.0" width="26" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="303" y="135.0" width="23" height="6" rx="3" fill="#E8502F" fill-opacity="0.85"/></g>
+<g class="c"><rect x="346" y="135.0" width="18" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="389" y="135.0" width="26" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="val"><rect x="432" y="128" width="38" height="20" rx="6" fill="#E8502F" fill-opacity="0.22" stroke="#E8502F" stroke-opacity="0.8"/><text x="451.0" y="142.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#E8502F">6.8x</text></g>
+<g class="c"><rect x="475" y="135.0" width="17" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="88" y="163.0" width="24" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="131" y="163.0" width="18" height="6" rx="3" fill="#E8502F" fill-opacity="0.85"/></g>
+<g class="c"><rect x="174" y="163.0" width="18" height="6" rx="3" fill="#E8502F" fill-opacity="0.85"/></g>
+<g class="c"><rect x="217" y="163.0" width="24" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="260" y="163.0" width="31" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="303" y="163.0" width="19" height="6" rx="3" fill="#E8502F" fill-opacity="0.85"/></g>
+<g class="c"><rect x="346" y="163.0" width="21" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="389" y="163.0" width="28" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="val"><rect x="432" y="156" width="38" height="20" rx="6" fill="#E8502F" fill-opacity="0.22" stroke="#E8502F" stroke-opacity="0.8"/><text x="451.0" y="170.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#E8502F">3.2x</text></g>
+<g class="c"><rect x="475" y="163.0" width="34" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="88" y="191.0" width="27" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="131" y="191.0" width="24" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="174" y="191.0" width="34" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="217" y="191.0" width="17" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="260" y="191.0" width="32" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="303" y="191.0" width="22" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="346" y="191.0" width="19" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="389" y="191.0" width="19" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="val"><rect x="432" y="184" width="38" height="20" rx="6" fill="#4B5968" fill-opacity="0.1" stroke="#4B5968" stroke-opacity="0.25"/><text x="451.0" y="198.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#4B5968">2.1x</text></g>
+<g class="c"><rect x="475" y="191.0" width="22" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="88" y="219.0" width="31" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="131" y="219.0" width="20" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="174" y="219.0" width="27" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="217" y="219.0" width="28" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="260" y="219.0" width="23" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="303" y="219.0" width="26" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="346" y="219.0" width="18" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="389" y="219.0" width="18" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="val"><rect x="432" y="212" width="38" height="20" rx="6" fill="#4B5968" fill-opacity="0.1" stroke="#4B5968" stroke-opacity="0.25"/><text x="451.0" y="226.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#4B5968">1.0x</text></g>
+<g class="c"><rect x="475" y="219.0" width="20" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="88" y="247.0" width="29" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="131" y="247.0" width="24" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="174" y="247.0" width="22" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="217" y="247.0" width="27" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="260" y="247.0" width="25" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="303" y="247.0" width="22" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="346" y="247.0" width="31" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="389" y="247.0" width="29" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="val"><rect x="432" y="240" width="38" height="20" rx="6" fill="#4B5968" fill-opacity="0.1" stroke="#4B5968" stroke-opacity="0.25"/><text x="451.0" y="254.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#4B5968">0.6x</text></g>
+<g class="c"><rect x="475" y="247.0" width="21" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="88" y="275.0" width="27" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="131" y="275.0" width="26" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="174" y="275.0" width="32" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="217" y="275.0" width="30" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="260" y="275.0" width="22" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="303" y="275.0" width="34" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="346" y="275.0" width="19" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="c"><rect x="389" y="275.0" width="24" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<g class="val"><rect x="432" y="268" width="38" height="20" rx="6" fill="#4B5968" fill-opacity="0.1" stroke="#4B5968" stroke-opacity="0.25"/><text x="451.0" y="282.0" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" font-weight="700" fill="#4B5968">0.4x</text></g>
+<g class="c"><rect x="475" y="275.0" width="30" height="6" rx="3" fill="#D5DCE5" fill-opacity="0.9"/></g>
+<text x="88" y="320" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11" letter-spacing="2" fill="#4B5968">10 COLUMNAS <tspan fill="#E8502F">→</tspan> 1 PATRÓN</text>
+<g class="in"><text x="648" y="112" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="12" letter-spacing="2.4" fill="#4B5968">ESPÍA <tspan fill="#E8502F">→</tspan> MIRA <tspan fill="#E8502F">→</tspan> MATRIZ <tspan fill="#E8502F">→</tspan> GUION</text></g>
+<g class="in"><text x="648" y="182" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-1.5" fill="#0B0F14">MATRIZ DE</text></g>
+<g class="in"><text x="648" y="246" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="66" font-weight="800" letter-spacing="-1.5" fill="#E8502F">VIRALIDAD</text></g>
+<g class="in"><text x="648" y="282" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="18" fill="#4B5968">Descubre qué hace que un video rompa su mediana.</text></g>
+<g class="in"><rect x="648" y="302" width="98" height="30" rx="15" fill="#0A88A8" fill-opacity=".06" stroke="#0A88A8" stroke-opacity=".55"/><circle cx="661" cy="317" r="3" fill="#0A88A8"/><text x="671" y="321.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0B0F14">Instagram</text></g>
+<g class="in"><rect x="754" y="302" width="74" height="30" rx="15" fill="#0A88A8" fill-opacity=".06" stroke="#0A88A8" stroke-opacity=".55"/><circle cx="767" cy="317" r="3" fill="#0A88A8"/><text x="777" y="321.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0B0F14">TikTok</text></g>
+<g class="in"><rect x="836" y="302" width="88" height="30" rx="15" fill="#0A88A8" fill-opacity=".06" stroke="#0A88A8" stroke-opacity=".55"/><circle cx="849" cy="317" r="3" fill="#0A88A8"/><text x="859" y="321.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0B0F14">YouTube</text></g>
+<g class="in"><rect x="932" y="302" width="44" height="30" rx="15" fill="#0A88A8" fill-opacity=".06" stroke="#0A88A8" stroke-opacity=".55"/><circle cx="945" cy="317" r="3" fill="#0A88A8"/><text x="955" y="321.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0B0F14">X</text></g>
+<g class="in"><rect x="984" y="302" width="72" height="30" rx="15" fill="#E8502F" fill-opacity=".06" stroke="#E8502F" stroke-opacity=".55"/><circle cx="997" cy="317" r="3" fill="#E8502F"/><text x="1007" y="321.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0B0F14">Apify</text></g>
+<g class="in"><rect x="1064" y="302" width="76" height="30" rx="15" fill="#E8502F" fill-opacity=".06" stroke="#E8502F" stroke-opacity=".55"/><circle cx="1077" cy="317" r="3" fill="#E8502F"/><text x="1087" y="321.5" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0B0F14">Watch</text></g>
+<g class="in"><path d="M648 356H684" stroke="#0A88A8" stroke-width="2"/><text x="696" y="360" font-family="ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace" font-size="11.5" letter-spacing="1.6" fill="#4B5968">AGENTE PARA CLAUDE CODE · POR @SOYENRIQUEROCHA</text></g>
+</svg>

@@ -1,0 +1,25 @@
+# Guardias de Matriz Viralidad. Sin dependencias de terceros salvo checkout y setup-node.
+name: validate
+on:
+  push: { branches: [main] }
+  pull_request:
+permissions: { contents: read }
+
+jobs:
+  checks:
+    name: Pruebas y validación del repo
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node: [20, 22]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: ${{ matrix.node }}
+      - name: Pruebas offline
+        run: node --test tests/*.test.mjs
+      - name: Validar repo (manifiestos, frontmatter, comandos, enlaces, higiene de llaves)
+        run: node scripts/validar-repo.mjs
+      - name: Sintaxis de los scripts
+        run: for f in scripts/*.mjs; do node --check "$f"; done

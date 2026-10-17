@@ -1,0 +1,10 @@
+changelog:
+  categories:
+    - title: Nuevo
+      labels: [enhancement]
+    - title: Arreglos
+      labels: [bug]
+    - title: Apify (precios y actores)
+      labels: [apify]
+    - title: Otros
+      labels: ["*"]

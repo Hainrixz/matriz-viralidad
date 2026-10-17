@@ -1,0 +1,20 @@
+{
+  "name": "matriz-viralidad",
+  "version": "1.0.0",
+  "description": "ES: Un agente de Claude Code que te entrevista, espía cuentas públicas con Apify, ve los videos, construye tu matriz de viralidad (10 columnas + patrones), simula guiones y arma tu calendario y tu rutina semanal. EN: A Claude Code agent that interviews you, spies on public accounts with Apify, watches the videos, builds your virality matrix (10 columns + patterns), simulates scripts and plans your calendar and weekly routine.",
+  "author": { "name": "Enrique Rocha", "url": "https://github.com/Hainrixz" },
+  "homepage": "https://github.com/Hainrixz/matriz-viralidad",
+  "repository": "https://github.com/Hainrixz/matriz-viralidad",
+  "license": "MIT",
+  "keywords": ["viralidad", "matriz-de-contenido", "apify", "instagram", "tiktok", "youtube", "x", "claude-code", "content-strategy", "viral-content", "competitor-analysis", "agente", "español"],
+  "skills": ["./.claude/skills/"],
+  "agents": [
+    "./.claude/agents/espia.md",
+    "./.claude/agents/analista-video.md",
+    "./.claude/agents/matricero.md",
+    "./.claude/agents/sentimiento.md",
+    "./.claude/agents/calendarista.md",
+    "./.claude/agents/simulador.md",
+    "./.claude/agents/validador.md"
+  ]
+}

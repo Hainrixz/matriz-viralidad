@@ -1,0 +1,19 @@
+{
+  "name": "matriz-viralidad",
+  "owner": { "name": "Enrique Rocha", "url": "https://github.com/Hainrixz" },
+  "metadata": {
+    "description": "Agente de matriz de viralidad para Claude Code: Apify + análisis de video + patrones + guiones + calendario."
+  },
+  "plugins": [
+    {
+      "name": "matriz-viralidad",
+      "source": ".",
+      "version": "1.0.0",
+      "description": "Agente que construye tu matriz de viralidad: espía competencia con Apify, ve los videos, encuentra el patrón, simula guiones y arma tu rutina semanal.",
+      "keywords": ["viralidad", "apify", "contenido", "instagram", "tiktok", "youtube"],
+      "author": { "name": "Enrique Rocha" },
+      "license": "MIT",
+      "category": "productivity"
+    }
+  ]
+}

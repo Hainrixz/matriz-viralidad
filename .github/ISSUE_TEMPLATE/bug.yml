@@ -1,0 +1,30 @@
+name: Algo no funciona / Bug
+description: Reporta un problema (sin pegar llaves ni tokens)
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: "**No pegues llaves, tokens ni el contenido de tu .env.** / Never paste keys, tokens or your .env."
+  - type: textarea
+    id: que-paso
+    attributes:
+      label: Qué pasó / What happened
+      description: El comando que corriste, lo que esperabas y lo que pasó (copia el error).
+    validations: { required: true }
+  - type: dropdown
+    id: modo
+    attributes:
+      label: Modo
+      options: [Clon (repo abierto en Claude Code), Plugin]
+    validations: { required: true }
+  - type: dropdown
+    id: superficie
+    attributes:
+      label: Dónde lo usas
+      options: [App de escritorio de Claude Code, Terminal, Otro]
+    validations: { required: true }
+  - type: textarea
+    id: doctor
+    attributes:
+      label: Salida de /matriz-doctor
+      description: Corre /matriz-doctor y pega el semáforo (no muestra llaves).

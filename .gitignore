@@ -1,0 +1,24 @@
+# Datos de cada persona: nunca se suben
+.env
+.env.*
+!.env.example
+perfil.json
+perfiles/
+fuentes/
+videos/
+transcripciones/
+matriz/
+guiones/
+calendario/
+simulaciones/
+.matriz/
+
+# Pero el demo sintetico SI viaja
+!examples/demo/fuentes/
+!examples/demo/fuentes/**
+
+# Sistema
+.claude/settings.local.json
+node_modules/
+.DS_Store
+*.pem
