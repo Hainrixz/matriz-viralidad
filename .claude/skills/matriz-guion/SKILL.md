@@ -6,6 +6,7 @@ description: >-
   confianza). Úsala con "escríbeme guiones", "simula este guion", "qué grabo", "guiones con el patrón".
 argument-hint: "[tema o ángulo opcional]  |  simular <ruta-de-un-guion-tuyo>"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-guion — crea y simula
 

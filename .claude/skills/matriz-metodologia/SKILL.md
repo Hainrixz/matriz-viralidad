@@ -2,6 +2,7 @@
 name: matriz-metodologia
 description: El metodo completo para construir una matriz de viralidad. Usalo cuando haya que calcular rendimiento contra la mediana, clasificar hooks, construir la tabla de 10 columnas o escribir el documento de analisis.
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # Metodologia de la matriz de viralidad
 

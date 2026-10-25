@@ -3,6 +3,7 @@ name: matriz-espiar
 description: Trae el contenido viral de otra cuenta y analiza los videos que tú elijas
 argument-hint: "<handle> <red>  |  <url-de-video>"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-espiar — qué está haciendo el que sí funciona
 

@@ -3,6 +3,7 @@ name: matriz-analiticas
 description: Mide tus propias cuentas contra su mediana y dice qué está funcionando de verdad
 argument-hint: "[handle]  (vacío = todas las cuentas del perfil)"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-analiticas — cómo vas de verdad
 

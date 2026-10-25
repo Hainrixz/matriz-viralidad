@@ -7,6 +7,7 @@ description: >-
   "actualiza todo", "cómo me fue".
 argument-hint: "[opcional: cuentas a refrescar]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-rutina — una vez por semana
 

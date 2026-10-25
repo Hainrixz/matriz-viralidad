@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-5434b375
 /**
  * revisar.mjs — comprobaciones de solo lectura que las skills necesitan y que no deben hacerse
  * con comandos en linea (grep sobre el .env, node -e): el guardia los bloquea a proposito.

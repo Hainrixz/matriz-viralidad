@@ -3,6 +3,7 @@ name: matriz-ganador
 description: Cruza qué tan usado está cada patrón contra cuánto rinde, para hallar lo que funciona y todavía no satura
 argument-hint: "[propio | competencia | todo]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-ganador — lo que funciona y nadie está exprimiendo
 

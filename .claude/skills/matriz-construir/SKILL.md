@@ -3,6 +3,7 @@ name: matriz-construir
 description: Construye la matriz de viralidad de 10 columnas y el documento que la explica
 argument-hint: "[propio | competencia | todo]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-construir — la tabla y el porqué
 

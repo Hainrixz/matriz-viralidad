@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-5434b375
 /**
  * apify.mjs — trae piezas PUBLICAS de una cuenta y las deja normalizadas.
  *

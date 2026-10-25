@@ -7,6 +7,7 @@ description: >-
   "quiero saber qué videos me funcionan", "seguimos", o pegues un @usuario.
 argument-hint: "[nombre-del-perfil]  (opcional, para manejar más de una cuenta o marca)"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # Matriz Viralidad — arranque
 

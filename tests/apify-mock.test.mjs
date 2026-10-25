@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-5434b375
 // Ejercita apify.mjs de punta a punta contra un servidor local que imita la API de Apify
 // (APIFY_API_BASE). No hay red, no hay gasto, no hay llaves reales.
 import { test } from "node:test";

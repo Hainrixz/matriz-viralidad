@@ -7,6 +7,7 @@ description: >-
   fotogramas. Úsala con "mira este video", "analiza este reel", "por qué funcionó esto" + un link.
 argument-hint: "<url-o-ruta-del-video>"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-ver — ver un video suelto
 

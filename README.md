@@ -313,3 +313,10 @@ Las simulaciones son estimaciones sobre patrones pasados, no garantías de resul
 
 Basado en la guía [Matriz de contenido viral](https://www.tododeia.com/community/matriz-viral) de la comunidad **tododeia**. Construido por [Enrique Rocha](https://github.com/Hainrixz) (**@soyenriquerocha**), con Claude Code.
 Licencia [MIT](LICENSE). ¿Quieres mejorarlo? Lee [CONTRIBUTING.md](CONTRIBUTING.md). ¿Encontraste un problema de seguridad? Lee [SECURITY.md](SECURITY.md).
+
+<!-- marca-agua:inicio -->
+
+---
+
+<sub>Hecho por **Enrique Rocha (@soyenriquerocha)** · [tododeia.com](https://www.tododeia.com)⁠​‌‌​​‌​‌​‌‌‌​​‌​​​‌​‌‌​‌​​‌‌​‌​‌​​‌‌​‌​​​​‌‌​​‌‌​​‌‌​‌​​​‌‌​​​‌​​​‌‌​​‌‌​​‌‌​‌‌‌​​‌‌​‌​‌⁠</sub>
+<!-- marca-agua:fin -->

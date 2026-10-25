@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-5434b375
 // Pruebas de contrato: atrapan incoherencias entre skills, agentes y scripts (las que encontro la auditoria).
 import { test } from "node:test";
 import assert from "node:assert/strict";

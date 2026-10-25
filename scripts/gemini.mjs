@@ -1,4 +1,7 @@
 #!/usr/bin/env node
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-5434b375
 /**
  * gemini.mjs — mira un video y devuelve el hook, la estructura y la emocion en JSON.
  *

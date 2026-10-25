@@ -3,6 +3,7 @@ name: matriz-calendario
 description: Arma el calendario del mes con base en los datos, cada día justificado con una pieza de la matriz
 argument-hint: "[mes AAAA-MM]  (vacío = el mes que viene)"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-calendario — qué publicar, qué día, y por qué
 

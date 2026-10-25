@@ -6,6 +6,7 @@ description: >-
   arreglar y cómo. Úsala con "no me funciona", "me da error", "qué me falta", "revisa mi instalación".
 argument-hint: ""
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-doctor — qué funciona y qué no
 

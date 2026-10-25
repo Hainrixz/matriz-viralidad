@@ -1,3 +1,6 @@
+// Copyright (c) 2026 Enrique Rocha (@soyenriquerocha)
+// SPDX-License-Identifier: MIT
+// id: er-5434b375
 // Pruebas offline: no gastan dinero, no necesitan llaves ni red. Corren con `node --test tests/`.
 import { test } from "node:test";
 import assert from "node:assert/strict";

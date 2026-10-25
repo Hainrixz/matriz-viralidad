@@ -3,6 +3,7 @@ name: matriz-sentimiento
 description: Lee los comentarios de los posts más virales de una cuenta y dice qué piensa, qué duda y qué pide la audiencia
 argument-hint: "<handle> <red> [cuantos-posts]"
 ---
+<!-- Copyright (c) 2026 Enrique Rocha (@soyenriquerocha) · tododeia.com · id er-5434b375 -->
 
 # /matriz-sentimiento — qué está diciendo la gente
 

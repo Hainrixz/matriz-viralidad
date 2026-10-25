@@ -5,9 +5,12 @@
   "description": "Agente de Claude Code para construir tu matriz de viralidad. Sin dependencias.",
   "type": "module",
   "license": "MIT",
-  "engines": { "node": ">=20" },
+  "engines": {
+    "node": ">=20"
+  },
   "scripts": {
     "test": "node --test tests/*.test.mjs",
     "validar": "node scripts/validar-repo.mjs"
-  }
+  },
+  "author": "Enrique Rocha (@soyenriquerocha) (https://www.tododeia.com)"
 }
